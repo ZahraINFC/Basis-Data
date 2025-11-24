@@ -1,6 +1,7 @@
 -- Nama : Zahra
 -- Nim  : D0224023
 
+
 MariaDB [(none)]> create database RumahSakit;
 MariaDB [(none)]> use RumahSakit;
 MariaDB [RumahSakit]> CREATE TABLE pasien (
